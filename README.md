@@ -18,18 +18,15 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="[https://linkedin.com/in/abdullah-khaled-0608a9236](https://www.linkedin.com/in/hamdy-askander-b67b32246/)" target="_blank">
+  <a href="linkedin.com/in/ahmed-saber-6717182a6" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Abdullah Khaled" height="40" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/mohameddhamdy407" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
+ 
   </a>
-  <a href="https://wa.me/+201278859768" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
+  <a href="https://wa.me/+201112973144" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Ahmed Saber" height="40" width="40" />
   </a>
-  <a href="https://t.me/+201278859768" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram - Abdullah Khaled" height="40" width="40" />
-  </a>
+ 
 </p>
 
 ## 🧑‍💻 Front End  Intern  
