@@ -1,4 +1,4 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
+
 <h1 align="center">Hi👋, I'm Ahmed Saber</h1>
 <h3 align="center">Front End Developer</h3>
 
