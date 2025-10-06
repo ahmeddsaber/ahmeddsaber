@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me:
 -  
-- 💬 **Ask me about**: Front end Development, Web(Reactjs), Mobile(React Native), Desktop(Electron)  
+- 💬 **Ask me about**:Full Stack .Net Developer  
 - 📫 **Reach me at**: [ahmedsaberkh7@gmail.com](ahmedsaberkh7@gmail.com) | **+20 1112983144**  
 - ⚡ **Fun fact**: I'm passionate about learning new things!  
 
