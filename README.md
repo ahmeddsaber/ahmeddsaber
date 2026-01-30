@@ -11,7 +11,7 @@
 👨‍💻 Full Stack .NET Developer with strong experience in building **scalable and secure web applications**  
 ⚡ Specialized in **ASP.NET Core, MVC, Web API, Entity Framework, and SQL Server**  
 🚀 Passionate about **Clean Code, SOLID Principles, and real-world problem solving**  
-🌱 Currently focused on **Clean Architecture, Design Patterns, and Performance Optimization**  
+🌱 Currently focused on **Clean Architecture, Design Patterns, Agile practices, and Performance Optimization**  
 💡 Interested in **API Design, Database Optimization, and System Architecture**  
 💬 Feel free to ask me about **.NET, C#, SQL Server, or Full Stack Development**
 
@@ -45,10 +45,15 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6F00?style=for-the-badge)
 
@@ -62,4 +67,3 @@
 ---
 
 ⭐ If you like my work, feel free to **follow me** and **check my repositories**
-
