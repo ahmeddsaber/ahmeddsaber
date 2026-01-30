@@ -10,8 +10,9 @@
 
 👨‍💻 Full Stack .NET Developer with strong experience in building **scalable and secure web applications**  
 ⚡ Specialized in **ASP.NET Core, MVC, Web API, Entity Framework, and SQL Server**  
-🚀 Passionate about **Clean Code, SOLID Principles, and real-world problem solving**  
-🌱 Currently focused on **Clean Architecture, Design Patterns, Agile practices, and Performance Optimization**  
+🎨 Frontend experience with **HTML, CSS, JavaScript, Bootstrap, Angular, and Tailwind CSS**  
+🚀 Passionate about **Clean Code, SOLID Principles, Agile practices, Unit Testing, and real-world problem solving**  
+🌱 Currently focused on **Clean Architecture, Design Patterns, and Performance Optimization**  
 💡 Interested in **API Design, Database Optimization, and System Architecture**  
 💬 Feel free to ask me about **.NET, C#, SQL Server, or Full Stack Development**
 
@@ -23,7 +24,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-saber-6717182a6)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201112983144)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201112973144)
 
 ---
 
@@ -61,8 +62,8 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedSaber&theme=vision-friendly-dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSaber&theme=vision-friendly-dark&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmeddsaber&theme=vision-friendly-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddsaber&theme=vision-friendly-dark&layout=compact&hide_border=false)
 
 ---
 
